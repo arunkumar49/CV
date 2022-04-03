@@ -1,0 +1,21 @@
+body {
+  background-color:#EAF6f6;
+}
+hr {
+  /* background-color: white;  no need when we color */
+  /* border-width: 1px; */    /* we can either use one of them - height*/
+  height: 0px;      /*should set to zero if we want to get dotted hr  or we can remove*/
+  border-style: none;
+  border-top: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+}
+
+h1{
+  color: #66BFBF;
+}
+
+h3{
+  color: #66BFBF;
+}
